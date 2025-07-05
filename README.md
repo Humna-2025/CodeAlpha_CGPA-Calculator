@@ -1,5 +1,5 @@
 # CodeAlpha_CGPA-Calculator
-📄 Code Overview
+#Code Overview
 This program is a Semester GPA (CGPA) Calculator using Object-Oriented Programming (OOP) concepts like classes, encapsulation, and arrays of objects.
 
 It takes a student's courses, their grades, and credit hours, calculates grade points for each course, then computes the total GPA (CGPA).
@@ -71,6 +71,7 @@ Calls displayCoursesAndCGPA() to show all results.
 ✅ Array of objects
 ✅ Input/output handling
 ✅ Simple arithmetic to calculate GPA
+#Code
             #include <iostream>
             using namespace std; 
 
